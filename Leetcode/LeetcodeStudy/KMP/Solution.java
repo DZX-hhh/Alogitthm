@@ -36,7 +36,7 @@ public class Solution {
         //初始化next[0]=-1
         int i = 0, j = -1;
         next[0] = -1;
-        while (i < needle.length()) {
+        while (i < needle.length() - 1) {
             if (j == -1 || needle.charAt(i) == needle.charAt(j)) {
                 next[++i] = ++j;
             } else {
