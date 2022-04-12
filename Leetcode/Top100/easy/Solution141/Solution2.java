@@ -1,6 +1,6 @@
 package Leetcode.Top100.easy.Solution141;
 
-import Leetcode.LeetcodeTool.ListNode;
+import Leetcode.Tool.ListNode;
 
 /**
  * 判断链表是否有环

@@ -1,6 +1,6 @@
 package Leetcode.Top100.easy.Solution206;
 
-import Leetcode.LeetcodeTool.ListNode;
+import Leetcode.Tool.ListNode;
 
 
 public class Solution2 {

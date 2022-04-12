@@ -1,6 +1,6 @@
 package Leetcode.Top100.easy.Solution160;
 
-import Leetcode.LeetcodeTool.ListNode;
+import Leetcode.Tool.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;

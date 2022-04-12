@@ -1,6 +1,6 @@
 package Leetcode.Top100.easy.Solution160;
 
-import Leetcode.LeetcodeTool.ListNode;
+import Leetcode.Tool.ListNode;
 
 public class Solution2 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

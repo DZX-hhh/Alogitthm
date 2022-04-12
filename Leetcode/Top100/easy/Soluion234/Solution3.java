@@ -1,6 +1,6 @@
 package Leetcode.Top100.easy.Soluion234;
 
-import Leetcode.LeetcodeTool.ListNode;
+import Leetcode.Tool.ListNode;
 
 /**
  * 快慢指针方法:

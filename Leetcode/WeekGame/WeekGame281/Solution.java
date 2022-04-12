@@ -1,6 +1,6 @@
 package Leetcode.WeekGame.WeekGame281;
 
-import Leetcode.LeetcodeTool.ListNode;
+import Leetcode.Tool.ListNode;
 
 public class Solution {
     /**
