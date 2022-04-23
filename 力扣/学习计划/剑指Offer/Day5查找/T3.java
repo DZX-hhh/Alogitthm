@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day5;
+package 力扣.学习计划.剑指Offer.Day5查找;
 
 import java.util.Arrays;
 import java.util.HashMap;

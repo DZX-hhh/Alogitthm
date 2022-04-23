@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day6;
+package 力扣.学习计划.剑指Offer.Day6搜索与回溯;
 
 
 import 力扣.知识点.二叉树.TreeNode;

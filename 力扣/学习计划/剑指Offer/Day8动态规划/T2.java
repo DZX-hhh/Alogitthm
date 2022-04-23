@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day8;
+package 力扣.学习计划.剑指Offer.Day8动态规划;
 
 public class T2 {
     /*动态规划,,维护备忘录*/

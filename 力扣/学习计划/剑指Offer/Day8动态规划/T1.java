@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day8;
+package 力扣.学习计划.剑指Offer.Day8动态规划;
 
 public class T1 {
     /*直接使用递归,,超时,,重复计算量过多*/

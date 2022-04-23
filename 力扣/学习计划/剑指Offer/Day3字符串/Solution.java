@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day3;
+package 力扣.学习计划.剑指Offer.Day3字符串;
 
 public class Solution {
     public String replaceSpace(String s) {

@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day1;
+package 力扣.学习计划.剑指Offer.Day1栈与队列;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

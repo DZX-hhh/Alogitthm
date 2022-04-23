@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day2;
+package 力扣.学习计划.剑指Offer.Day2链表;
 
 import 力扣.工具类.ListNode;
 

@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day4;
+package 力扣.学习计划.剑指Offer.Day4查找;
 
 import java.util.HashSet;
 

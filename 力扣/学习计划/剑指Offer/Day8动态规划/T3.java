@@ -1,4 +1,4 @@
-package 力扣.学习计划.剑指Offer.Day8;
+package 力扣.学习计划.剑指Offer.Day8动态规划;
 
 public class T3 {
     /*如果要盈利,,曲线必然是往上走的
