@@ -13,3 +13,19 @@
 
 返回链表 4->5.
 ```
+
+**快慢指针**
+
+```java
+public ListNode getKthFromEnd(ListNode head,int k){
+        ListNode slow=head,fast=head;
+        while(k-->0){
+        fast=fast.next;
+        }
+        while(fast!=null){
+        fast=fast.next;
+        slow=slow.next;
+        }
+        return slow;
+        }
+```
