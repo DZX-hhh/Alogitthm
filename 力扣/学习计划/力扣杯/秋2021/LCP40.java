@@ -1,4 +1,4 @@
-package 力扣.学习计划.力扣杯.秋2021.Day1;
+package 力扣.学习计划.力扣杯.秋2021;
 
 import java.util.Arrays;
 
