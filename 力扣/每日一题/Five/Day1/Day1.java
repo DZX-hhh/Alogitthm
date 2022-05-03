@@ -1,4 +1,4 @@
-package 力扣.每日一题.Five;
+package 力扣.每日一题.Five.Day1;
 
 import 力扣.知识点.二叉树.TreeNode;
 
