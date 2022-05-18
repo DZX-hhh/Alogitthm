@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Solution59 {
+public class Solution59_1 {
     /**
      * 求某个区间的最大值,一般使用单调队列解决
      *
