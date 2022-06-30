@@ -21,7 +21,7 @@ void InsertSort_WithSoldier(int A[], int n) {
 		if (A[i] < A[i - 1]) {
 			A[0] = A[i];
 			int j = i - 1;
-			for (; j >= 0 && A[0] < A[j]; j--) {
+			for (; A[0] < A[j]; j--) {
 				A[j + 1] = A[j];
 			}
 			A[j + 1] = A[0];
