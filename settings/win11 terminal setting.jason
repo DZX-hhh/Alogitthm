@@ -40,15 +40,15 @@
         {
             "backgroundImage": null,
             "backgroundImageOpacity": 1.0,
-            "colorScheme": "One Half Dark",
-            "cursorShape": "filledBox",
+            "colorScheme": "Tango Dark",
+            "cursorShape": "vintage",
             "experimental.retroTerminalEffect": false,
             "font": 
             {
                 "face": "JetBrains Mono",
-                "weight": "bold"
+                "weight": "normal"
             },
-            "opacity": 100,
+            "opacity": 50,
             "useAcrylic": false
         },
         "list": 
