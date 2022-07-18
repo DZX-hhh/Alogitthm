@@ -5,7 +5,7 @@ using namespace std;
 void BubbleSort_Small(int A[], int n) {
 	for (int i = 0; i < n - 1; i++) {//需要冒泡n-1个数,,也就是n-1次
 		bool flag = false;
-		for (int j = n - 1; j >= i; j--) {//将最小的数冒泡到最前
+		for (int j = n - 1; j > i; j--) {//将最小的数冒泡到最前
 			if (A[j] < A[j - 1]) {
 				swap(A[j], A[j - 1]);//交换
 				flag = true;
