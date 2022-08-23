@@ -10,3 +10,7 @@
 #### win11主题
 
 - "发光"
+
+#### Typora主题
+
+- LiquidInkDark
