@@ -1,3 +1,7 @@
+# 忽略所有的可执行文件
+*.exe
+*.out
+
 /LeetCode/知识点/Solution.java
 /LeetCode/学习计划/力扣杯/春2021/Day2/Solution.java
 /LeetCode/学习计划/编程能力/Day3/1367. 二叉树中的列表.md
